@@ -8,6 +8,9 @@
 .carousel-item{
   padding: 20px 40px;
 }
+.carousel-gap{
+  margin-bottom: 20px;
+}
 .price{
   color: #ff136f;
 }
